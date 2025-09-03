@@ -10,5 +10,5 @@ A program that calculates the value of a complex mathematical expression for a g
 ### 2. Series Sum Calculator (`series_calculator.py`)
 A program that computes the sum of an infinite series at a given point `x` within the domain `[0, 1]` until the terms become smaller than a specified precision `epsilon`.
 
-### Prerequisites
-*   Python 3
+
+
