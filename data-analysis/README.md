@@ -66,6 +66,9 @@ The notebook includes visualizations such as:
 - **Multiple Visualizations**: Various plots to understand weather patterns
 - **Ukrainian Data Support**: Handles Ukrainian language column names appropriately
 
+## Results
+The analysis reveals patterns in sales distribution, identifies top-performing products, and highlights geographical variations in profitability.
+
 ## Dependencies
 - pandas
 - numpy
@@ -74,7 +77,4 @@ The notebook includes visualizations such as:
 - jupyter
 
 
-
-## Results
-The analysis reveals patterns in sales distribution, identifies top-performing products, and highlights geographical variations in profitability.
 
