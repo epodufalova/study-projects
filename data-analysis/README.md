@@ -27,7 +27,7 @@ This project analyzes a financial dataset containing sales, profit, and product 
 - France shows the highest sales volume among all countries
 - Specific products demonstrate significantly higher profitability
 
-## Weather Data Analysis
+# Weather Data Analysis
 
 ## Dataset
 **File:** `weather.csv`
@@ -75,6 +75,7 @@ The analysis reveals patterns in sales distribution, identifies top-performing p
 - matplotlib
 - seaborn
 - jupyter
+
 
 
 
