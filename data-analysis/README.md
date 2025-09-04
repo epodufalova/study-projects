@@ -59,7 +59,7 @@ The notebook includes visualizations such as:
 - Cloud cover analysis
 - Precipitation data visualization
 
-## 📈 Key Features
+## Key Features
 
 - **Data Quality Handling**: Comprehensive cleaning of messy data including unit removal and missing value handling
 - **Time Series Analysis**: Monthly filtering and temporal pattern recognition
@@ -77,3 +77,4 @@ The notebook includes visualizations such as:
 
 ## Results
 The analysis reveals patterns in sales distribution, identifies top-performing products, and highlights geographical variations in profitability.
+
