@@ -1,6 +1,5 @@
 
 """
-The author of this program is Yelyzaveta Podufalova
 This program calculates the value of the expression by given x.
 """
 
